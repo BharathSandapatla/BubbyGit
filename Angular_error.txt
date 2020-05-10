@@ -1,0 +1,101 @@
+D:\Angular>ng new bubby-first-app
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE bubby-first-app/angular.json (3638 bytes)
+CREATE bubby-first-app/package.json (1248 bytes)
+CREATE bubby-first-app/README.md (1030 bytes)
+CREATE bubby-first-app/tsconfig.json (489 bytes)
+CREATE bubby-first-app/tslint.json (3125 bytes)
+CREATE bubby-first-app/.editorconfig (274 bytes)
+CREATE bubby-first-app/.gitignore (631 bytes)
+CREATE bubby-first-app/browserslist (429 bytes)
+CREATE bubby-first-app/karma.conf.js (1027 bytes)
+CREATE bubby-first-app/tsconfig.app.json (210 bytes)
+CREATE bubby-first-app/tsconfig.spec.json (270 bytes)
+CREATE bubby-first-app/src/favicon.ico (948 bytes)
+CREATE bubby-first-app/src/index.html (299 bytes)
+CREATE bubby-first-app/src/main.ts (372 bytes)
+CREATE bubby-first-app/src/polyfills.ts (2835 bytes)
+CREATE bubby-first-app/src/styles.css (80 bytes)
+CREATE bubby-first-app/src/test.ts (753 bytes)
+CREATE bubby-first-app/src/assets/.gitkeep (0 bytes)
+CREATE bubby-first-app/src/environments/environment.prod.ts (51 bytes)
+CREATE bubby-first-app/src/environments/environment.ts (662 bytes)
+CREATE bubby-first-app/src/app/app.module.ts (314 bytes)
+CREATE bubby-first-app/src/app/app.component.html (25725 bytes)
+CREATE bubby-first-app/src/app/app.component.spec.ts (969 bytes)
+CREATE bubby-first-app/src/app/app.component.ts (219 bytes)
+CREATE bubby-first-app/src/app/app.component.css (0 bytes)
+CREATE bubby-first-app/e2e/protractor.conf.js (808 bytes)
+CREATE bubby-first-app/e2e/tsconfig.json (214 bytes)
+CREATE bubby-first-app/e2e/src/app.e2e-spec.ts (648 bytes)
+CREATE bubby-first-app/e2e/src/app.po.ts (301 bytes)
+√ Packages installed successfully.
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in browserslist.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/protractor.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.e2e-spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.po.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in karma.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.app.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.spec.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tslint.json.
+The file will have its original line endings in your working directory
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'next@next-PC.(none)')
+
+D:\Angular>
