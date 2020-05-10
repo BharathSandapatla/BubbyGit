@@ -1,4 +1,6 @@
-D:\Angular>ng new bubby-first-app
+Good
+
+D:\Angular>ng new bubby-first-app 
 ? Would you like to add Angular routing? No
 ? Which stylesheet format would you like to use? CSS
 CREATE bubby-first-app/angular.json (3638 bytes)
